@@ -4,7 +4,7 @@ layout: default
 
 # Hi, I'm Daniel Johns
 
-Follower of Christ | Husband | Father of Four | Squadron Commander | Engineering Director at P&G
+## Follower of Christ, Husband, Father of Four, Squadron Commander, Engineering Director at P&G
 
 I serve as a Squadron Commander, lead engineering teams at Procter & Gamble, and do my best as a husband and dad. I train jiu jitsu when I can.
 
